@@ -69,14 +69,16 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samru-4423&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samru-4423&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=samru-4423&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samru-4423&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
   <img src="https://streak-stats.demolab.com?user=samru-4423&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samru-4423&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=samru-4423&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  /> -->
 
-  <img src="https://github-stats-extended.vercel.app/api?username=samru-4423" height="150" alt="GitHub stats">
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=samru-4423&layout=compact" height="150" alt="Top languages">
+  <img src="https://github-stats-extended.vercel.app/api?username=samru-4423&theme=dracula&show_icons=true" height="150" alt="GitHub stats">
+
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=samru-4423&layout=compact&theme=dracula" height="150" alt="Top languages">
+
 </div>
 
 
